@@ -1,0 +1,95 @@
+header{
+    text-align:center;
+    color:aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration:underline;
+}
+footer{
+    background-color:#111;
+    color:#ccc;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    padding:15px 10px;
+    position:relative;
+    bottom:0;
+    width:100%;
+    font-size:14px;
+    letter-spacing:0.5px;
+}
+footer p{
+    margin:5px 0;
+}
+footer a:hover{
+    text-decoration:underline;
+}
+body{
+    background: linear-gradient(180deg, violet,indigo,blue,green,yellow,orange,red);
+}
+#S{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:azure;
+}  
+ol{
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 15px;
+}
+#P{
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 15px;  
+}
+#F{
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 15px; 
+}
+#G{
+    color:pink;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 15px;
+}
+#L{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 15px;
+}
+a{
+    color:Blue;
+    font-family: Arial, Helvetica, sans-serif;
+        font: 15px;
+}
+h2{
+    text-align: canter;
+    text-decoration: underline;
+    color:darkmagenta;
+}
+#q{
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 15px; 
+}
+nav {
+    background-color: #222;
+    padding: 12px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+nav a:hover {
+    background-color: #00bcd4;
+    color: black;
+}
+nav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
